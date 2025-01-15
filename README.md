@@ -1,6 +1,6 @@
 
 <div id="header" align="left">
-  <img src="https://pegcityball.ca/wp-content/uploads/2024/07/green-Fn.fw_.png" width="500"/>
+  <img src="https://pegcityball.ca/wp-content/uploads/2024/07/green-Fn.fw_.png" width="120"/>
 </div>
 
 <!--
