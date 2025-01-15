@@ -1,7 +1,5 @@
 
-<div id="header" align="left">
-  <img src="https://pegcityball.ca/wp-content/uploads/2024/07/green-Fn.fw_.png" width="250"/>
-</div>
+
 
 <!--
 **KennethPinyan/KennethPinyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
